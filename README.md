@@ -1,4 +1,4 @@
-# Demo vanilla
+# Demo vanilla JS code
 
 Repo for JS code that helps me learning
 
