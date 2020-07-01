@@ -1,4 +1,5 @@
-#Demo vanilla
+# Demo vanilla
+
 Repo for JS code that helps me learning
 
-Feel free to comment!
+Feel free to comment!!
